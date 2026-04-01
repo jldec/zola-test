@@ -1,4 +1,4 @@
-base_url = "https://example.com"
+base_url = "https://zola-test-ev8.pages.dev/"
 title = "jldec/zola-test"
 compile_sass = false
 build_search_index = false
